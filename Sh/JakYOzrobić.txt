@@ -1,0 +1,13 @@
+a więc jak nie ma już na tym użądzeniu plku jar albo java class
+   javac -version
+      javac *.java
+         java MainWindow
+         i powino działać jak nie ma java albo coś nie gra
+         wejść
+         tu
+         Windows
+         https://www.oracle.com/java/technologies/downloads/#jdk23-windows
+         Macos
+         https://www.oracle.com/java/technologies/downloads/#jdk23-mac
+         Linux
+         https://www.oracle.com/java/technologies/downloads/#jdk23-linux

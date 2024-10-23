@@ -1,0 +1,12 @@
+========================================================================================================================================
+2024-10-23 17:08:50 - Aplikacja została uruchomiona.
+2024-10-23 17:08:50 - Załadowano studentów z pliku.Student: //Format to 'Imię Nazwisko, Card Pin: Card pin, Class: Klasa, Diary Number: nr z dzięnika'
+Student: // Np Adam Golik, Card Pin: 365, Class: 8b, Diary Number: 2
+Student: Adam Byrtus, Card Pin: 2, Class: 8b, Diary Number: 1
+Student: Adam Golik, Card Pin: 3, Class: 8b, Diary Number: 2
+Student: Marek Kawulok, Card Pin: 5, Class: 8b, Diary Number: 4
+Student: Karolina Krzanowska, Card Pin: 4 , Class: 8b, Diary Number: 3
+
+2024-10-23 17:08:57 - Zaktualizowano tabelę dla studenta z PINem: 3
+2024-10-23 17:08:59 - Zaktualizowano tabelę dla studenta z PINem: 2
+2024-10-23 17:09:02 - Zaktualizowano tabelę dla studenta z PINem: 5
