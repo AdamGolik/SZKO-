@@ -86,4 +86,4 @@ public class MainWindow extends JFrame {
 
 ## Wkład
 
-Proszę zgłaszać wszelkie problemy lub sugestie dotyczące ulepszeń aplikacji na adres [email@example.com].
+Proszę zgłaszać wszelkie problemy lub sugestie dotyczące ulepszeń aplikacji na adres [adamgolik031@gmail.com].
